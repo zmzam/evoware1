@@ -1,0 +1,79 @@
+/*@font-face {
+	font-family: "Gilroy Light";
+	src: url('fonts/Gilroy-Light.otf');
+}*/
+
+
+body {
+	font: Gilroy Light;
+	height: 2000px;
+	font-weight: 600px;
+}
+nav {
+	top: 24px;
+	margin-left: 24%;
+	margin-right: 24%;
+	background: transparent;
+	color: #fff;
+}
+.container nav ul li  {
+	padding: 200px;
+}
+#carousel img {
+	filter: grayscale(50%);
+	filter: brightness(50%);
+}
+.dropdown-menu {
+	background: rgba(255, 255, 255, 0.1);
+	border: none;
+}
+.dropdown-menu a {
+	color: #fff;
+}
+#text {
+	position: absolute;
+	padding: 220px 210px;
+	color: white;
+}
+#text {
+	position: absolute;
+	line-height: 322.1px;
+	z-index: 999999;
+}
+a {
+	color: #fff;
+}
+#caption {
+	background: #aaa;
+	box-sizing: border-box;
+}
+#caption p {
+	padding: 50px 30px;
+	color: #fff;
+	margin-bottom: 0;
+}
+#product {
+	margin: 0;
+}
+.left{
+	width: 50%;
+	float: left;
+	background-color: #fff;
+{
+
+}.right{
+	width: 50%;
+	float: right;
+	background-color: #ddd
+}
+
+
+
+
+
+
+
+
+
+
+
